@@ -1,0 +1,7 @@
+pytesseract
+pillow
+mirascope
+groq
+google-generativeai
+streamlit
+pyMuPDF
